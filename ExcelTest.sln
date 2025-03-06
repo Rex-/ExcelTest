@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExcelTest.Aspose", "ExcelTest.Aspose\ExcelTest.Aspose.csproj", "{7733E6A3-6031-42C4-8DA2-E56E6CC3D500}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExcelTest.DX", "ExcelTest.DX\ExcelTest.DX.csproj", "{F4F4AEB2-7E8B-494F-B014-AEA245D75E8D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7733E6A3-6031-42C4-8DA2-E56E6CC3D500}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7733E6A3-6031-42C4-8DA2-E56E6CC3D500}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7733E6A3-6031-42C4-8DA2-E56E6CC3D500}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7733E6A3-6031-42C4-8DA2-E56E6CC3D500}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4F4AEB2-7E8B-494F-B014-AEA245D75E8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4F4AEB2-7E8B-494F-B014-AEA245D75E8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4F4AEB2-7E8B-494F-B014-AEA245D75E8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4F4AEB2-7E8B-494F-B014-AEA245D75E8D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1C54461F-61E4-44F2-8863-E1FC64EB60E0}
+	EndGlobalSection
+EndGlobal
